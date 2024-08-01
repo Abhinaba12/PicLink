@@ -1,5 +1,5 @@
 
-It's a applications that's help you to live any picture(jpg,png) in your local storage into online hosting. You can share this link to anyone you want
+It's an applications that's help you to live any picture(jpg,png) in your local storage into online hosting. You can share this link to anyone you want
 
 
 
