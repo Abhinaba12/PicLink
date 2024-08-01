@@ -30,7 +30,7 @@ function App() {
 
   return (
     <div className='container'>
-      <img src={url} className='img' />
+      // <img src={url} className='img' />
       <div className='wrapper'>
         <h1>PicLink</h1>
         <p>Upload and share the download link</p>
