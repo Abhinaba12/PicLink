@@ -8,7 +8,7 @@ function App() {
 
   const fileInputRef = useRef();
 
-  const url = 'https://i.ibb.co/fQY1G17/Profile-2.png';
+  // const url = 'https://i.ibb.co/fQY1G17/Profile-2.png';
 
   useEffect(() => {
     const getImage = async () => {
