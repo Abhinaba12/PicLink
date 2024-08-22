@@ -13,5 +13,5 @@ It's an applications that's help you to live any picture(jpg,png) in your local 
 ---
 **Install Dependencies:**
    ```bash
-   npm  install
+   npm install
    npm start
