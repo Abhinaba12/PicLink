@@ -8,8 +8,6 @@ function App() {
 
   const fileInputRef = useRef();
 
-  // const url = 'https://i.ibb.co/fQY1G17/Profile-2.png';
-
   useEffect(() => {
     const getImage = async () => {
       if (file) {
@@ -30,7 +28,6 @@ function App() {
 
   return (
     <div className='container'>
-      // <img src={url} className='img' />
       <div className='wrapper'>
         <h1>PicLink</h1>
         <p>Upload and share the download link</p>
