@@ -18,10 +18,14 @@
   width: 900px;
   height: 400px;
   margin: auto;
-  background: #6f5249;
+  background: #1d1c1b;
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+p{
+  color: #fff;
 }
 
 h1 {
